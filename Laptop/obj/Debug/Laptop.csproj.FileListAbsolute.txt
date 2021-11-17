@@ -1,0 +1,7 @@
+C:\Users\Sepanta\Desktop\copputer\Laptop\Laptop\bin\Debug\Laptop.exe.config
+C:\Users\Sepanta\Desktop\copputer\Laptop\Laptop\bin\Debug\Laptop.exe
+C:\Users\Sepanta\Desktop\copputer\Laptop\Laptop\bin\Debug\Laptop.pdb
+C:\Users\Sepanta\Desktop\copputer\Laptop\Laptop\obj\Debug\Laptop.csproj.AssemblyReference.cache
+C:\Users\Sepanta\Desktop\copputer\Laptop\Laptop\obj\Debug\Laptop.csproj.CoreCompileInputs.cache
+C:\Users\Sepanta\Desktop\copputer\Laptop\Laptop\obj\Debug\Laptop.exe
+C:\Users\Sepanta\Desktop\copputer\Laptop\Laptop\obj\Debug\Laptop.pdb
